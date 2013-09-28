@@ -1,4 +1,4 @@
-NATOUnits
+NATOMisc
 =========
 
-NATO Special Forces Modpack - Containing @NATOUnits
+NATO Special Forces Modpack - Containing @NATOMisc
